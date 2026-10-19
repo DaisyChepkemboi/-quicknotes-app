@@ -27,7 +27,7 @@ QuickNotes is a simple, responsive note-taking web application built with HTML, 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YOUR-GITHUB-USERNAME/quicknotes-app.git
+   git clone https://github.com/DaisyChepkemboi/quicknotes-system-design.git
    ```
 
 2. Enter the project directory:
